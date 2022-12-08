@@ -1,0 +1,10 @@
+-------TO  CREATE NEW REPOSITORY-------
+1] In the upper-right corner of any page, use the "+" drop-down menu, and select New repository.
+2] name for your repository => e.g My Repository
+3] Optional add your repository discription
+4] Choose a repository visibility => public / Private
+5] Select Initialize this repository with a README.
+6] click button "Create repository"
+
+-------TO  COMMIT YOUR FIRST CHANGE-------
+
